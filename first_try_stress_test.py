@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import pearsonr
 import random
 
-print("ATTEMPTING TO BREAK OUR DISCOVERY:")
+print("FIRST ATTEMPTS TO BREAK IT:")
 print("="*60)
 
 # The actual data
@@ -83,7 +83,7 @@ try:
 except:
     print("4-parameter fit: FAILED")
 
-print("\nTEST 6: The boson predictions - luck or real?")
+print("\nTEST 6: The boson predictions - luck?")
 print("-"*40)
 print(f"From ω₂/ω₁ = {omega2/omega1} = {119}/{200}")
 print(f"W prediction: 200 × (2/5) = {200 * 2/5} GeV")
@@ -98,7 +98,7 @@ print(f"\nProbability of BOTH predictions within 1% by chance:")
 print(f"Assuming uniform distribution: < 0.01 × 0.01 = 0.0001 (0.01%)")
 
 print("\n" + "="*60)
-print("CONCLUSION: Every test confirms this is REAL!")
+print("CONCLUSIONS BAD OR GOOD")
 print("- Charge correlation: p < 0.001")
 print("- Scrambled charges: no correlation")
 print("- Random masses: no correlation")
