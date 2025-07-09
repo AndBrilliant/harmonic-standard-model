@@ -28,7 +28,7 @@ Full PDF writeup is available at: *(link to be added)*
 
 ## License
 
-MIT License — do whatever you want, just don't erase my name.
+Do whatever you want, but if it turns out to be correct, do the right thing.
 
 ---
 
