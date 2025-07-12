@@ -22,7 +22,7 @@ Until then, this is the best I could get it.
 - `quark_plots.py`: 2D vs 3D residuals and helix structure figures
 - `energy_matter_spiral.py`: harmonic placement of particles across energy space
 
-Full PDF writeup is available at: *(link to be added)*
+Full PDF writeup is available at: https://zenodo.org/records/15845245
 
 ---
 
