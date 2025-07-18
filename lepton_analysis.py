@@ -2,6 +2,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
+#Note: Neutrino masses are theoretical estimates based on:
+#- Oscillation constraints: Δm²₂₁ = 7.53×10⁻⁵ eV²
+3- Δm²₃₂ = 2.51×10⁻³ eV² (normal hierarchy)
+#- Cosmological bound: Σmᵥ < 0.12 eV
+#- Not direct PDG measurements
 
 # Set up the figure with clean academic style
 plt.style.use('default')
